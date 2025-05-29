@@ -59,29 +59,48 @@ subtemas = {
 # Recomendaciones nuevas por subtema
 recomendaciones = {
     "Estado físico del adulto": """• Realizar ejercicio físico regular adaptado (caminar, yoga, natación o gimnasia suave) para mantener movilidad, fuerza y equilibrio.
+
 • Mantener una alimentación balanceada rica en frutas, verduras, proteínas y agua para conservar la energía y prevenir enfermedades.
-• Asistir a chequeos médicos periódicos para monitorear la salud, detectar problemas tempranamente y ajustar tratamientos.""",
+
+• Asistir a chequeos médicos periódicos para monitorear la salud, detectar problemas tempranamente y ajustar tratamientos.
+""",
 
     "Estrés y manejo emocional": """• Practicar técnicas de relajación y respiración profunda diariamente para reducir la ansiedad y controlar el estrés.
+
 • Participar en grupos de apoyo o terapia emocional donde puedan compartir experiencias y fortalecer su bienestar psicológico.
-• Realizar actividades recreativas y sociales que generen placer y distraigan la mente, como la pintura, la música o el baile.""",
+
+• Realizar actividades recreativas y sociales que generen placer y distraigan la mente, como la pintura, la música o el baile.
+""",
 
     "Proyecto de vida y sentido": """• Fijar metas personales alcanzables y proyectos que motiven (como aprender algo nuevo, voluntariado o cuidar un huerto).
+
 • Reflexionar sobre su historia y legado para fortalecer la autoestima y encontrar propósito en sus experiencias.
-• Mantenerse activos en roles familiares y sociales para sentirse útiles y valorados en la comunidad.""",
+
+• Mantenerse activos en roles familiares y sociales para sentirse útiles y valorados en la comunidad.
+""",
 
     "Relaciones y apoyo social": """• Mantener contacto regular con familiares y amigos a través de llamadas, visitas o reuniones para evitar el aislamiento.
+
 • Participar en actividades comunitarias o clubes de personas mayores para crear nuevos vínculos sociales.
-• Buscar apoyo cuando lo necesiten y ofrecer ayuda a otros, fomentando relaciones de confianza y reciprocidad.""",
+
+• Buscar apoyo cuando lo necesiten y ofrecer ayuda a otros, fomentando relaciones de confianza y reciprocidad.
+""",
 
     "Salud mental y resiliencia": """• Desarrollar hábitos de pensamiento positivo y autoaceptación, enfocándose en sus fortalezas y logros.
+
 • Enfrentar dificultades buscando soluciones activas, aprendiendo a adaptarse y a buscar ayuda si es necesario.
-• Practicar actividades que fortalezcan la mente, como leer, hacer juegos de memoria o aprender cosas nuevas.""",
+
+• Practicar actividades que fortalezcan la mente, como leer, hacer juegos de memoria o aprender cosas nuevas.
+""",
 
     "Autocuidado y prevención": """• Adoptar rutinas diarias de higiene, alimentación y descanso para preservar la salud integral.
+
 • Informarse sobre señales de alerta y acudir a revisiones médicas regularmente para prevenir enfermedades.
-• Involucrar a la familia y cuidadores en su cuidado, asegurando apoyo y seguimiento constante."""
+
+• Involucrar a la familia y cuidadores en su cuidado, asegurando apoyo y seguimiento constante.
+"""
 }
+
 
 # Recolección de respuestas
 respuestas = {}
