@@ -120,7 +120,7 @@ if submit:
     st.markdown("## 💡 Recomendaciones personalizadas:")
     alguna_recomendacion = False
     for subtema, promedio in puntajes_subtemas.items():
-        if promedio <= 3:
+        if promedio <= 4:
             st.write(f"**{subtema}**")
             st.markdown(recomendaciones[subtema])
             alguna_recomendacion = True
