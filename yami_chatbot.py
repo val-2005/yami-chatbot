@@ -1,11 +1,11 @@
 import streamlit as st
 
-st.set_page_config(page_title="YAMI - Evaluador de Autocuidado")
+st.set_page_config(page_title="VitaBalance - Evaluador de Autocuidado")
 
-st.title("🤖 YAMI - Tu agente de autocuidado")
+st.title("🤖 VitaBalance - Tu agente de autocuidado")
 
 st.markdown("""
-Hola, soy **YAMI**, tu guía para evaluar tu autocuidado en diferentes aspectos de tu vida.  
+Hola, soy **VitaBalance**, tu guía para evaluar tu autocuidado en diferentes aspectos de tu vida.  
 Responde del **1 al 5** cada afirmación:  
 **1 = Muy en desacuerdo** | **5 = Muy de acuerdo**  
 """)
