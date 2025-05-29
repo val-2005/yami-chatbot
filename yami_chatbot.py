@@ -1,14 +1,14 @@
 import streamlit as st
 
 # Configuración de la página
-st.set_page_config(page_title="YAMI - Evaluador de Autocuidado")
+st.set_page_config(page_title="LIXY KUN - Evaluador de Autocuidado")
 
 # Título principal
-st.title("🤖 YAMI - Tu agente de autocuidado")
+st.title("🐧 LIXY KUN - Tu agente de autocuidado")
 
 # Instrucciones iniciales
 st.markdown("""
-Hola, soy **YAMI**. Estoy aquí para ayudarte a reflexionar sobre tu bienestar en distintas áreas de tu vida.  
+Hola, soy **LYXI KUN**. Estoy aquí para ayudarte a reflexionar sobre tu bienestar en distintas áreas de tu vida.  
 Responde del 1 al 5 cada pregunta, donde **1 = muy mal** y **5 = excelente**.
 """)
 
@@ -67,5 +67,5 @@ if submit:
             alguna_recomendacion = True
 
     if not alguna_recomendacion:
-        st.success("¡Genial! No necesitas recomendaciones en este momento. 🎉")
+        st.success("¡Genial! No necesitas recomendaciones en este momento. 🐧🎉")
 
